@@ -1,8 +1,9 @@
+#http://validform.rjboy.cn/ 官方网站
 # jquery插件：一行代码搞定整站表单验证！
 Validate all the forms through the site just need one line code! <br>
 
 通用表单验证方法<br>
-Validform version 2.0<br>
+Validform version 5.3.2<br>
 For more information, please visit <http://www.rjboy.cn><br>
 By sean during April 7, 2010 - April 22, 2011
 
